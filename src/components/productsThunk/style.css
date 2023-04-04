@@ -1,0 +1,8 @@
+.mainContainer {
+  font-size: 1.1rem;
+  display: flex;
+  margin-top: 2%;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 2%;
+}
